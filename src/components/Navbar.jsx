@@ -21,7 +21,7 @@ const Navbar = () => {
           <div className="hidden md:flex items-center space-x-1">
             <a href="#about" className="py-5 px-5 text-gray-100 hover:text-gray-500 transition duration-300">About Us</a>
             <a href="#news" className="py-5 px-5 text-gray-100 hover:text-gray-500 transition duration-300">News</a>
-            <a href="#trending" className="py-5 px-5 text-gray-100 hover:text-gray-500 transition duration-300">Trending Tools</a>
+            <a href="#trending" className="py-5 px-5git text-gray-100 hover:text-gray-500 transition duration-300">Trending Tools</a>
           </div>
 
 
